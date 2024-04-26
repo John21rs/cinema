@@ -37,7 +37,7 @@ function limpar() {
 }
 
 function toggleAssentoStatus(button) {
-  button.classList.toggle("assenoto ocupado");
+  button.classList.toggle("assento ocupado");
 }
 function gerarAssentos() {
   var assentosContainer = document.getElementById("assentosContainer");
