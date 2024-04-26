@@ -6,7 +6,6 @@ Projeto para a compra de ingressos em uma rede de cinemas, que exibe os filmes, 
 
 ```
 IDE - Vscode
-Nodejs
 ```
 
 ## 🛠️ Construído com
