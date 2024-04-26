@@ -64,7 +64,4 @@ function gerarAssentos() {
     assentosContainer.appendChild(row);
   });
 }
-
-window.onload = function () {
-  gerarAssentos();
-};
+gerarAssentos();
