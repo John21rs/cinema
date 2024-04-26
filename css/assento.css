@@ -1,0 +1,83 @@
+h1 {
+  text-align: center;
+  padding: 23px;
+  background-color: rgb(00, 00, 00s);
+  color: rgb(255, 255, 255);
+}
+
+header {
+  text-align: center;
+  background-color: #333;
+  color: #fff;
+  width: 100%;
+  padding: 10px 0;
+}
+
+input {
+  width: 60px;
+  background-color: rgb(57, 143, 57);
+  color: white;
+  border: 3px solid gray;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 5px;
+  font-size: 15px;
+}
+
+.formstyle {
+  width: 600px;
+  height: 450px;
+  margin-right: auto;
+  margin-left: auto;
+  border: 3px solid rgb(255, 255, 255);
+  border-radius: 5px;
+  padding: 20px;
+}
+
+#limpar {
+  width: 285px;
+  border: 3px solid gray;
+  border-radius: 3px;
+  padding: 20px;
+  background-color: red;
+  margin: auto;
+}
+
+#display {
+  width: 60%;
+  border: 3px solid rgb(255, 255, 255);
+  border-radius: 5px;
+  padding: 20px;
+  box-sizing: border-box;
+  margin-top: 20px;
+  background-color: rgb(40, 12, 143);
+}
+
+#tela {
+  width: 97%;
+  color: aliceblue;
+  background-color: rgb(0, 0, 0);
+  border: 3px solid rgb(214, 214, 214);
+  border-radius: 5px;
+  padding: 3px;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+body {
+  background-color: rgb(252, 252, 252);
+}
+
+#bot {
+  width: 10%;
+  display: inline-block;
+  padding: 10px 20px;
+  margin: 10px 20px 20px;
+  background-color: #4caf50;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+  position: relative;
+  top: 1%;
+  left: 75%;
+}

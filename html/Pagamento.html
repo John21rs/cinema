@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Informações de Pagamento</title>
+    <link rel="stylesheet" href="../css/estilos.css" />
+    <script type="text/javascript" src="../js/pagamento.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <form>
+        <h1>Informações de Pagamento</h1>
+
+        <label for="valor">Valor:</label>
+        <input type="text" id="valor" value="0" />
+
+        <br /><br />
+
+        <a
+          href="confirmacao.html"
+          onclick="salvarpagamento('pix')"
+          class="botao"
+          >PIX</a
+        >
+        <a
+          href="confirmacao.html"
+          onclick="salvarpagamento('credito')"
+          class="botao"
+          >Crédito</a
+        >
+        <a
+          href="confirmacao.html"
+          onclick="salvarpagamento('debito')"
+          class="botao"
+          >Débito</a
+        >
+      </form>
+    </div>
+  </body>
+</html>
