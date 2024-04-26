@@ -49,7 +49,7 @@ function carregarFilmes() {
     .then((data) => {
       const filmesContainer = document.getElementById("filmes-container");
 
-      data.slice(0, 12).forEach((filme) => {
+      data.slice(0, 20).forEach((filme) => {
         const divFilme = document.createElement("div");
         divFilme.classList.add("filmes");
 
