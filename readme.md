@@ -17,8 +17,13 @@ Mencione as ferramentas que você usou para criar seu projeto
 - [CSS]
 - [JS]
 
-## ✒️ Autores
+
 
 - _João Victor Rodrigues Santos_ - [Desenvolvedor](https://github.com/John21rs)
 - _Davi Negreiros Carneiro Rangel_ - [Desenvolvedor](https://github.com/DaviRangel01)
 - _Miguel Angel Morán_ - [Desenvolvedor](https://github.com/linkParaPerfil)
+
+
+## 🚀 Deploy
+
+- https://john21rs.github.io/cinema/html/index.html
