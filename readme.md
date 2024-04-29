@@ -2,15 +2,13 @@
 
 Projeto para a compra de ingressos em uma rede de cinemas, que exibe os filmes, aperitivos, sala e outras informações, com solicitação de pagamento tanto em pix ou cartão de crédito/débito.
 
-### 📋 Pré-requisitos
+## 📋 Pré-requisitos
 
 ```
 IDE - Vscode
 ```
 
-## 🛠️ Construído com
-
-Mencione as ferramentas que você usou para criar seu projeto
+### 🛠️ Construído com
 
 - [HTML]
 - [CSS]
@@ -23,6 +21,6 @@ Mencione as ferramentas que você usou para criar seu projeto
 - _Miguel Angel Morán_ - [Desenvolvedor](https://github.com/Angel-85)
 
 
-## 🚀 Deploy
+#### 🚀 Deploy
 
 - https://john21rs.github.io/cinema/html/index.html
